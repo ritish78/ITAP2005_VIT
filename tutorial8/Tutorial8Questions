@@ -1,0 +1,7 @@
+Write	a	program	that	prompts	the	user	to	read	two	integers	and	displays	their	sum.	Your	program
+should	prompt	the	user	to	read the	number	again	if	the	input	is	incorrect.
+Hint	:	Use	InputMismatchException
+Exercises
+4. Write	a	program	to	create	a	file	named	Exercise12_15.txt	if	it	does	not	exist.	Write	100	integers
+created	randomly	into	the	file	using	text	I/O.	Integers	are	separated	by	spaces	in	the	file.	Read	the
+data	back	from	the	file	and	display	the	data	in	increasing	order.

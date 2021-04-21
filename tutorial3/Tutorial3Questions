@@ -1,0 +1,22 @@
+Tutorials
+1. Write a program that accepts three integer values that represent the lengths of the sides of a triangle.
+The program should check if the triangle is isosceles or not.
+[Hint: Isosceles is exactly two of the sides have an equal length.]
+2. Write a program that accepts string that represents command to the machine.
+If the user enters start the machine is started; if the user enters stop the machine is stopped ;
+Any other command is not recognized.
+3. Write a program to display the current time?
+Excercises
+1. Accept an input from the user on the annual gross income. Write a program using if condition to find
+the Tax amount.
+If the income is less than 20,000 non-taxable income; if less than 50,000 tax is 5%; if less than 75,000
+tax is 15%; if income is less than 150,000 tax is 20%; for income less than 250,000 tax is 35%;for
+income above 250,000 tax is 40%
+2. Accept input from the user on the grade achieved by the student. Write a program using switch..case
+to advise the student based on the grade.
+ If student got A grade means Excellent Work.
+ If student got B grade means Well done.
+ If student got C grade means Well done.
+ If student got D grade means Pass.
+ If student got F grade means Fail and better luck next time.
+ Any other grade entered is invalid.

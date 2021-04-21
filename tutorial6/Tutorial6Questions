@@ -1,0 +1,11 @@
+Tutorials
+1. Write a program that computes and prints the sum of the elements of integers named values.
+2. Write a program that prints the values stored in an array called names backwards.
+3. Write program that increments (by one) each element of an array of integers named numbers.
+Exercises
+4. Write a program to sort the names in an array in alphabetical order. Accept inputs from users to
+populate the array with 10 names. The program should print the sorted array as an output.
+(5 marks)
+5. Write a program to sort the numbers in an array in ascending order. Accept inputs from users
+to populate the array with 10 numbers. The program should print the sorted array as an output.
+(5 marks)

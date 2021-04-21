@@ -1,6 +1,6 @@
 package com.company.tutorial.tutorial8;
 
-public class TestCode {
+public class TestCode{
     public static void main(String[] args) {
         try {
             int value = 30;

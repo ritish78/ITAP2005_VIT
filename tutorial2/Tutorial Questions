@@ -1,0 +1,26 @@
+Tutorials
+1. Write	a	program	that	reads	in	the	radius	and	length	of	a	cylinder	and	computes	the	area	and
+volume	using	the	following	formulas.
+area	=	radius	*	radius	*	π
+volume	=	area	*	length
+2. A	year	is	a	leap	year,	if	it	is	divisible	by	4.		When	user	keys	in	a	year,	write	a	program	to
+determine	if	the	year	is	a	leap	year	or	not.
+3. Body	Mass	Index	(BMI)	is	a	measure	of	health	on	weight.	It	can	be	calculated	by	taking	your
+weight	in	kilograms	and	dividing	by	the	square	of	your	height	in	meters.	Write	a	program	that
+prompts	the	user	to	enter	a	weight	in	pounds	and	height	in	inches	and	displays	the	BMI.	Note
+that	one	pound	is	0.45359237	kilograms	and	one	inch	is	0.0254	meters.
+Exercises
+4. Write	a	program	that	calculates	the	energy	needed	to	heat	water	from	an	initial	temperature	to
+a	final	temperature.	Your	program	should	prompt	the	user to	enter	the	amount	of	water	in
+kilograms	and	the	initial	and	final	temperatures	of	the	water.	The	formula	to	compute	the
+energy	is
+Q	=	M	*	(finalTemperature	– initialTemperature)	*	4184
+where	M	is	the	weight	of	water	in	kilograms,	temperatures	are	in	degrees	Celsius,	and	energy	Q
+is	measured	in	joules.
+(5	marks)
+5. Write	a	program	that	reads	in	investment	amount,	annual	interest	rate,	and	number	of	years,
+and	displays	the	future	investment	value	using	the	following	formula:
+futureInvestmentValue	=	investmentAmount	*	(1	+	monthlyInterestRate) numberOfYears*12
+For	example,	if	you	enter	amount	1000,	annual	interest	rate	3.25%,	and	number	of	years	1,	the
+future	investment	value	is	1032.98.
+(5 marks)
