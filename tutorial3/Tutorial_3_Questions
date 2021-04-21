@@ -1,7 +1,7 @@
 Tutorials
-1. Write a program that accepts three integer values that represent the lengths of the sides of a triangle.
-The program should check if the triangle is isosceles or not.
+1.	Write a program that accepts three integer values that represent the lengths of the sides of a triangle. The program should check if the triangle is isosceles or not.
 [Hint: Isosceles is exactly two of the sides have an equal length.]
+
 2. Write a program that accepts string that represents command to the machine.
 If the user enters start the machine is started; if the user enters stop the machine is stopped ;
 Any other command is not recognized.

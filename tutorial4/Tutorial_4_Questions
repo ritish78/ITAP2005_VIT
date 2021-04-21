@@ -1,0 +1,24 @@
+Tutorials
+1. Write a program to print a multiplication tables for numbers 1 to 10 in a tabular format.
+2. Write a program to count the occurrences of each letter in a string that a user keys in.
+
+Exercises
+3.	Write below Java application which prompts the user to enter 15 integers, then computes the sum, and then prints the sum to the screen.
+
+import java.util.Scanner; public class SumInts{
+public static void main (String[] args)
+{
+Scanner scan = new Scanner(System.in); int sum=0;
+System.out.print("Enter 15 integers: "); for (int i=1; i<=15; i++)
+sum += scan.nextInt(); System.out.println("The sum is " + sum);
+}
+}
+
+(5 marks)
+4.	Recall the Pythagorean Theorem says that if a; b are the lengths of two edges of a right triangle, then the length of the hypotenuse c is given by
+c2 = a2 + b2:
+Write a Java application which prompts the user to enter the lengths of two edges of a right triangle and then computes the length of the hypotenuse.
+
+import java.util.Scanner; public class Hypotenuse{
+
+public static void main(String[] args){ Scanner scan = new Scanner(System.in); double a,b,c;
